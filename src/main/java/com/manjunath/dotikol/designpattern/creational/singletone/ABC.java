@@ -1,4 +1,4 @@
-package com.manjunath.dotikol.designpattern.singletone;
+package com.manjunath.dotikol.designpattern.creational.singletone;
 
 public class ABC {
 

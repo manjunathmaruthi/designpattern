@@ -1,4 +1,4 @@
-package com.manjunath.dotikol.designpattern.builder;
+package com.manjunath.dotikol.designpattern.creational.builder;
 
 public class Computer {
 

@@ -1,4 +1,4 @@
-package com.manjunath.dotikol.designpattern.factory;
+package com.manjunath.dotikol.designpattern.creational.factory;
 
 public class FactoryClient {
 

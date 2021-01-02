@@ -1,6 +1,6 @@
-package com.manjunath.dotikol.designpattern.abstractfactory;
+package com.manjunath.dotikol.designpattern.creational.abstractfactory;
 
-import com.manjunath.dotikol.designpattern.factory.OS;
+import com.manjunath.dotikol.designpattern.creational.factory.OS;
 
 public class AbstractFactoryClient {
 
